@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="632da18b-6c54-4765-9c3f-5268d9b814a4" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="632da18b-6c54-4765-9c3f-5268d9b814a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,16 +28,23 @@
     </option>
   </component>
   <component name="ProjectId" id="1Yt5l0x6dm6veUiEH7ejLYEE7cT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/country-services/src/main/java/com/example/countryservices" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -54,16 +65,6 @@
       <set>
         <option value="SpringBootApplicationConfigurationType" />
       </set>
-    </option>
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.CountryServicesApplication">
@@ -226,27 +227,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="allServicesViewState">
-      <serviceView>
-        <option name="contentProportion" value="0.2447644" />
-        <treeState>
-          <expand>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@dc8b4d00" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-            </path>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@dc8b4d00" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@71c96397" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-            </path>
-          </expand>
-          <select />
-        </treeState>
-      </serviceView>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -259,10 +239,17 @@
       <updated>1583749197392</updated>
       <workItem from="1583749201531" duration="7909000" />
       <workItem from="1583757315748" duration="369000" />
+      <workItem from="1588553735317" duration="95000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="188" key="FileChooserDialogImpl" timestamp="1588553828171">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="188" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1588553828171" />
   </component>
 </project>
